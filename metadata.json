@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Sleek tactical cybernetic personal AI assistant with local device integrations, Voice TTS/STT controls, smart home dashboard, mail composer, and hover HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
